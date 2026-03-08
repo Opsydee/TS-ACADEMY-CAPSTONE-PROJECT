@@ -76,6 +76,7 @@ Numeric variables such as:
 1. Tenure
 2. Monthly Charges
 3. Total Charges
+   
 were analyzed to understand their distributions.
 
 Visualization techniques included:
@@ -92,6 +93,7 @@ Categorical variables such as:
 2. Contract Type
 3. Payment Method
 4. Internet Service
+   
 were analyzed using "count plots" to observe the frequency distribution of each category.
 
 These analyses helped identify potential relationships between customer characteristics and churn behavior.
@@ -123,6 +125,7 @@ Pipeline Components
 1. Data preprocessing
 2. Feature scaling and encoding
 3. Logistic Regression model
+   
 Using pipelines improves reproducibility and ensures consistent preprocessing during training and evaluation.
 
 Model Evaluation
@@ -136,6 +139,7 @@ The model's performance was evaluated using standard classification metrics:
 3. Recall – Ability to detect churn cases
 4. F1 Score – Balance between precision and recall
 5. Confusion Matrix – Detailed classification results
+   
 These metrics provide insight into the model's ability to correctly identify customers likely to churn.
 
 Key Insights
@@ -147,6 +151,7 @@ Exploratory analysis and modeling revealed that several factors influence churn 
 3. Contract type
 4. Payment method
 5. Internet service features
+   
 Understanding these relationships allows businesses to design targeted customer retention strategies.
 
 Technologies Used
