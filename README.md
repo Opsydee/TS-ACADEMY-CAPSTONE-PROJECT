@@ -163,5 +163,13 @@ Technologies Used
 5. Seaborn
 6. Scikit-learn
 7. Streamlit
-Jupyter Notebook / Google Colab
+8. Jupyter Notebook / Google Colab
+
+### Repository Structure
+
+Customer-Churn-Prediction
+│
+├── DATASET
+├── PROJECT
+├── README.md
 
